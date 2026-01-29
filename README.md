@@ -1,4 +1,4 @@
-Create a fully functional registration form that demonstrates what you learned in Module 3 (Lessons 3.1–3.8). Your form should include:
+Create a fully functional registration form that demonstrates what you learned. Your form should include:
 
 **Requirements**
 
