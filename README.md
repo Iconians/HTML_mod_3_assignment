@@ -1,5 +1,16 @@
 Create a fully functional registration form that demonstrates what you learned. Your form should include:
 
+**Reminder: Create a repo (GitHub + local)**
+
+- **On GitHub:** Sign in → "+" → "New repository" → Name it (e.g. `html-mod-3-assignment`) → Leave "Add a README file" **unchecked** → Create repository.
+- **In the terminal (locally):**
+  1. `mkdir project-name` then `cd project-name`
+  2. `git init`
+  3. Create your files, then: `git add .` → `git commit -m "Initial commit"`
+  4. `git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git`
+  5. `git branch -M main` (if needed)
+  6. `git push -u origin main`
+
 **Requirements**
 
 - **Form structure** — Use a `<form>` with appropriate `action` and `method` attributes (use POST for a registration form).
